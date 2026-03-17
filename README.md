@@ -76,8 +76,3 @@
 
 ---
 
-## ▶️ Запуск автотестов
-
-```bash
-cd selenium-playwright-tests
-mvn clean test
